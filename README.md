@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi
 My name in Navya, I am a Data Analyst
 
-[LinkedIn](www.linkedin.com/in/navyamanohar/)
+[LinkedIn](www.linkedin.com/in/navyamanohar)
 
 
 [FOLDER](https://github.com/NavyaManohar/Projects?tab=readme-ov-file#projects)
