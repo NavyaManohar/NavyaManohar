@@ -19,8 +19,9 @@ My name in Navya, I am a Data Analyst
 
 [LinkedIn](www.linkedin.com/in/navyamanohar/)
 
-(![image](https://github.com/user-attachments/assets/b2fff497-b503-47fd-bc1e-87530031f783)
-)
+
+[FOLDER](https://github.com/NavyaManohar/Projects?tab=readme-ov-file#projects)
+
 
 
 
