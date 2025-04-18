@@ -20,12 +20,5 @@ My name in Navya, I am a Data Analyst
 
 
 
-* one
-* two
-* three
- * one
- * two
-
-
 
 
