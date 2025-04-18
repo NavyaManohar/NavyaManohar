@@ -18,18 +18,6 @@ Here are some ideas to get you started:
 # Hi
 My name in Navya, I am a Data Analyst
 
-## Mission
-My mission is to help others
-
-### Vision
-My vision is to be a Entrapeuner 
-
-------
-******
-For a code
-....
-print("Hello World")
-.....
 
 
 * one
